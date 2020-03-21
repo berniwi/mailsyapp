@@ -1,0 +1,141 @@
+*{
+    font-family: 'Nunito', sans-serif; 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 0.5rem 0 0.5rem 1.25rem;
+}
+
+.logo_yapp{
+    width: 5rem;
+    height: auto;
+}
+
+.cab, footer{
+    background-color: #6578FF;  
+    color: white;
+    text-align: center;
+}
+
+.cab{
+    padding: 2.4rem 0 4.3rem 0;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 20px;  
+}
+
+.det_buy, .det_cus{
+    width: 20rem;
+    border: 1px solid #E0E0E0;
+    border-radius: 8px;
+    padding:  1.375rem 2.5rem 1.4rem 2rem;
+    margin: 0.5rem auto;
+    background-color: #fff;
+    position: relative;
+    bottom: 3.4rem;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 4rem;
+}
+
+.farm_img{
+    width: auto;
+    height: 2.5rem;
+}
+
+.farm_name{
+    display: inline;
+    position: relative;
+    bottom: 0.8rem;
+    left: 1.2rem;
+    font-size: 14px;
+}
+
+.prod p{
+    display: inline;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.items{
+    padding: 2rem 0 0.6rem 0;
+}
+
+.resumen{
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 2px solid #C4C4C4;
+    padding: 0.6rem 0;
+    text-align: right;
+}
+
+.res_name{
+    position: absolute;
+    right: 6rem;
+    padding-top: 0.15rem;
+}
+
+.total{
+    padding: 0.6rem 0 1.25rem 0;
+}
+
+.dato{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.little{
+    font-size: 10px;
+}
+
+.det_cus_info{
+    display: inline-block;
+    padding-left: 0.6rem;
+    position: relative;
+    bottom: 0.15rem;
+}
+
+footer{
+    padding: 4.25rem 0 3rem 0;
+    position: relative;
+    bottom: 7rem;
+    z-index: -1;
+}
+
+.det_cus h2{
+    padding-bottom: 2rem;
+}
+
+.det{
+    padding-bottom: 0.6rem;
+}
+
+.direct{
+    top: 0.6rem;
+}
+
+.cantidad{
+    padding-right: 0.4rem;
+}
+
+.x{
+    padding-right: 1.2rem;
+}
+
+.precio{
+    position: absolute;
+    right: 2.5rem;
+}
+
+.date{
+    position: absolute;
+    right: 2.5rem;
+    padding-top: 0.15rem;
+}
